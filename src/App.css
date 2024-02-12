@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+
+li {
+  list-style-position: inside;
+  text-align: left;
+}
+
+#main-title {
+  text-decoration: underline;
+  background-color: black;
+  padding: 20px;
+  color: blanchedalmond;
+}
+
+.container {
+  margin: 20px;
+  background-color: blanchedalmond;
+  color: black;
+  padding: 30px;
+}
